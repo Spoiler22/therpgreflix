@@ -1,3 +1,5 @@
+Nem sei se tú viu a última vaz que eutentei falar com tigo, mas estou conseguindo aprender muita coisa olhando o seu projeto e queria saber se tú pode me ajudar. Esse é o link do meu projeto no git: https://github.com/Spoiler22/AppReact
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
